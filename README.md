@@ -26,6 +26,12 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Course 
+```bash
+nestJS&React&TS&Mongo: https://www.youtube.com/watch?v=A0CfYSVzAZI&list=PLz9BBx_2LauRNoE4U0sQsFNE5-CW8N0wN&index=2&t=4486s
+nestJS&PostgreSQL: https://www.youtube.com/watch?v=msVhfCzFWvY&t=13s
+```
+
 ## Installation
 
 ```bash
